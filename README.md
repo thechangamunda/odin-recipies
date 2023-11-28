@@ -4,3 +4,5 @@ Learning how to deploy a webpage, and practicing how to make a basic website fro
 Following this amazing open source learning website for webdev basics known as [The Odin Project](https://www.theodinproject.com/about).
 
 You can check out the recipes mentioned here on [allrecipies](https://www.allrecipes.com/).
+
+Live view of this project: [Click here](https://github.com/thechangamunda/odin-recipies).
