@@ -5,4 +5,4 @@ Following this amazing open source learning website for webdev basics known as [
 
 You can check out the recipes mentioned here on [allrecipies](https://www.allrecipes.com/).
 
-Live view of this project: [Click here](https://github.com/thechangamunda/odin-recipies).
+Live view of this project: [Click here](https://thechangamunda.github.io/odin-recipies/).
