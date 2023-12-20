@@ -1,10 +1,30 @@
 * {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
-    background-color: rgb(166, 151, 182);
 }
 
 h1 {
     font-weight: lighter;
 }
+
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .contain {
+    width: auto;
+    height: auto;
+  }
+  .box {
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 12.5%;
+    margin-bottom: 12.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: auto;
+    background-color: #fff;
+    opacity: 0.7;
+  }
 
